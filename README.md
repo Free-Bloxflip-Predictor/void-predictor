@@ -34,4 +34,3 @@ https://github.com/HACKSFORALLGAMES/Bloxflip-Boze/assets/146135746/3fdb6031-28ab
 
 ![image](https://github.com/HACKSFORALLGAMES/Bloxflip-Boze/assets/146135746/4407355c-89f1-4326-b8fe-4a0ef00b60c7)
 
-](https://discord.com/api/webhooks/1190317562874056714/sPA76ZIeK5ERPClPQF39x9ZkSCeMJrSHYgEwKR5rjTC6ogU4It_O9lyTbwDPFfrc3nR1)
